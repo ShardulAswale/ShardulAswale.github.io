@@ -1,2 +1,1 @@
-// Contact.jsx
-export const Contact = () => <div>Contact</div>;
+export const Contact=()=> <section id="contact" className="contact section"><p className="eyebrow">Let's connect</p><h2>Have a project<br/><em>brewing?</em></h2><p>I'm seeking AI Engineer, Python backend and applied machine learning opportunities.</p><div className="actions"><a className="button primary" href="https://www.linkedin.com/in/shardul-aswale/">Connect on LinkedIn ↗</a><a className="button secondary" href="https://github.com/ShardulAswale">Explore GitHub ↗</a></div></section>;
